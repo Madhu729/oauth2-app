@@ -30,7 +30,7 @@
     <url>http://code.google.com/p/google-api-java-client/source/browse/?repo=samples</url> 
 	-->
 	<connection>scm:git:https://github.com/oauth2/</connection>
-    <developerConnection>scm:git:[fetch=]https://github.com/oauth2/[push=]file:///E:/Apps/CodeFoundry/auth2-app/</developerConnection>
+    <developerConnection>scm:git:[fetch=]https://github.com/oauth2/[push=]file://E:/Apps/CodeFoundry/auth2-app/</developerConnection>
     <url>https://github.com/Madhu729/oauth2/source/browse/?repo=oauth2</url> 
   </scm>
 
