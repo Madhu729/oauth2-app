@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.google</groupId>
+    <groupId>com.madhu.oauth</groupId>
     <artifactId>google</artifactId>
     <version>5</version>
   </parent>
-  <groupId>com.google.apis-samples</groupId>
-  <artifactId>oauth2-cmdline-sample</artifactId>
+  <groupId>com.google.apis-oauth2</groupId>
+  <artifactId>oauth2-cmdline-test</artifactId>
   <version>1</version>
   <name>Example for the OAuth2 API using JSON and OAuth 2.0</name>
 
@@ -25,23 +25,27 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:hg:https://samples.google-api-java-client.googlecode.com/hg/</connection>
+   <!-- <connection>scm:hg:https://samples.google-api-java-client.googlecode.com/hg/</connection>
     <developerConnection>scm:hg:https://samples.google-api-java-client.googlecode.com/hg/</developerConnection>
-    <url>http://code.google.com/p/google-api-java-client/source/browse/?repo=samples</url>
+    <url>http://code.google.com/p/google-api-java-client/source/browse/?repo=samples</url> 
+	-->
+	<connection>scm:git:https://github.com/oauth2/</connection>
+    <developerConnection>scm:git:[fetch=]https://github.com/oauth2/[push=]file:///E:/Apps/CodeFoundry/auth2-app/</developerConnection>
+    <url>https://github.com/Madhu729/oauth2/source/browse/?repo=oauth2</url> 
   </scm>
 
   <developers>
     <developer>
-      <id>yanivi</id>
-      <name>Yaniv Inbar</name>
-      <email>yanivi@google.com</email>
+      <id>Madhu</id>
+      <name>Madhu</name>
+      <email>Madhu729@oauth2.com</email>
       <organization>Google</organization>
       <organizationUrl>http://www.google.com</organizationUrl>
       <roles>
         <role>owner</role>
         <role>developer</role>
       </roles>
-      <timezone>-5</timezone>
+      <timezone>-8</timezone>
     </developer>
   </developers>
 
