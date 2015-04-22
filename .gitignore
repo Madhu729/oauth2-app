@@ -1,13 +1,13 @@
 # This is a comment
 # Ignore target at the top level
 /target/
-/resources/
+
 # Ignore child project's targets as well
 /*/target/
-/*resources/
+
 # And any grandchildren ...
 /*/*/target/
-/*/*/resources/
+
 # Or you can do:
 target/
 resources/
