@@ -33,8 +33,8 @@
 	<developerConnection>scm:git:https://madhu729:git@madhu729@github.com/Madhu729/oauth2-app.git</developerConnection> 
    <!-- <developerConnection>scm:git:[fetch=]https://github.com/oauth2/[push=]file://E:/Apps/CodeFoundry/auth2-app/target</developerConnection> -->
 	<!--<developerConnection>scm:git:[fetch=]https://github.com/Madhu729/oauth2-app//</developerConnection>  -->
-	<!-- <url>https://github.com/Madhu729/oauth2-app/source/browse/?repo=oauth2-app</url> -->
-	<url>scm:git:https://madhu729:git@madhu729@github.com/Madhu729/oauth2-app.git</url>
+	<url>https://github.com/Madhu729/oauth2-app/source/browse/?repo=oauth2-app</url>
+	
     <tag>oauth2-cmdline-test-2.1.1</tag>
   </scm>
 
