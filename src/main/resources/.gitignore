@@ -1,14 +1,10 @@
 # This is a comment
 # Ignore target at the top level
-/target/
-
+/client_secrets.json
 # Ignore child project's targets as well
-/*/target/
 
 # And any grandchildren ...
-/*/*/target/
 
 # Or you can do:
-target/
-#resources/
+client_secrets.json
 # which matches 'target' in any sub folder
