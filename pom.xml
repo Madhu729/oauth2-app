@@ -9,7 +9,7 @@
 -->
   <groupId>com.google.apis-oauth2</groupId>
   <artifactId>oauth2-cmdline-test</artifactId>
-  <version>2.1</version>
+  <version>2.1-SNAPSHOT</version>
   <name>Example for the OAuth2 API using JSON and OAuth 2.0</name>
   <url>https://github.com/Madhu729/oauth2-app</url>
 
@@ -29,13 +29,13 @@
     <developerConnection>scm:hg:https://samples.google-api-java-client.googlecode.com/hg/</developerConnection>
     <url>http://code.google.com/p/google-api-java-client/source/browse/?repo=samples</url> 
 	-->
-	<connection>scm:git:madhu729@github.com:git@madhu729/oauth2-app.git</connection>
-	<developerConnection>scm:git:madhu729@github.com:git@madhu729/oauth2-app.git/</developerConnection> 
+	<connection>scm:git:https://madhu729:git@madhu729@github.com/madhu729/oauth2-app.git</connection>
+	<developerConnection>scm:git:https://madhu729:git@madhu729@github.com/Madhu729/oauth2-app.git</developerConnection> 
    <!-- <developerConnection>scm:git:[fetch=]https://github.com/oauth2/[push=]file://E:/Apps/CodeFoundry/auth2-app/target</developerConnection> -->
 	<!--<developerConnection>scm:git:[fetch=]https://github.com/Madhu729/oauth2-app//</developerConnection>  -->
 	<!-- <url>https://github.com/Madhu729/oauth2-app/source/browse/?repo=oauth2-app</url> -->
-	<url>scm:git:madhu729@github.com:git@madhu729/oauth2-app.git</url>
-    <tag>oauth2-cmdline-test-2.1</tag>
+	<url>scm:git:https://madhu729:git@madhu729@github.com/Madhu729/oauth2-app.git</url>
+    <tag>oauth2-cmdline-test-2.1.1</tag>
   </scm>
 
   <developers>
@@ -43,8 +43,8 @@
       <id>Madhu</id>
       <name>Madhu</name>
       <email>Madhu729@oauth2.com</email>
-      <organization>Google</organization>
-      <organizationUrl>http://www.google.com</organizationUrl>
+      <organization>VLabs</organization>
+      <organizationUrl>http://www.vlabs.com</organizationUrl>
       <roles>
         <role>owner</role>
         <role>developer</role>
