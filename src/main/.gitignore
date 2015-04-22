@@ -1,0 +1,10 @@
+# This is a comment
+# Ignore target at the top level
+/resources/
+# Ignore child project's targets as well
+/*/resources/
+# And any grandchildren ...
+/*/*/resources/
+# Or you can do:
+resources/*
+# which matches 'target' in any sub folder
